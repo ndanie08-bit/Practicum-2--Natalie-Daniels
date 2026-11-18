@@ -1,0 +1,22 @@
+AI statement: Natalie Daniels
+
+My use of AI was to correct errors in my code such as this..
+
+error in select():
+! Can't select columns that don't exist.
+✖ Column NAME doesn't exist.
+Run rlang::last_trace() to see where the error occurred.
+
+then it helped to tell me how to find my correct name. 
+
+Error in get_census_api_key():
+! A Census API key is required for tidycensus requests.
+ℹ Get a Census API key at https://api.census.gov/data/key_signup.html, then pass
+it to a tidycensus function with the key argument or store it for future
+sessions with census_api_key("YOUR KEY", install = TRUE).
+
+then i had trouble also with my key so i plugged this in to understand what code i needed 
+
+I also used it to help me build a frame for making the first high point and afte that i made the rest by hand. 
+
+Then in the end, i put in my quarto format and it helped me just put in the pdf names i gave it for my maps, then i did all the writeing and formating.

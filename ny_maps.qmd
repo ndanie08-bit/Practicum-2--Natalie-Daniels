@@ -1,0 +1,48 @@
+---
+title: "New York Maps - practicum 2"
+author: Natalie Daniels
+format: typst
+---
+
+## Figure 1
+
+![New York Counties](counties1.pdf){fig-align="center" width="70%"}
+
+## Figure 2
+
+![High Points in New York](highpts2.pdf){fig-align="center" width="70%"}
+
+## Figure 3
+
+![Elevation of New York High Points](elevation3.pdf){fig-align="center" width="70%"}
+
+## Figure 4
+
+![Highest and Lowest High Points in New York](handl4.pdf){fig-align="center" width="70%"}
+
+
+Which are the highest and lowest high points, and what are their elevations?
+
+The highest point in NY is Mount Marcy in Essex county at 5344 while the lowest point is Battle Hill in Westchester county stands at 220.
+
+
+## Figure 5
+
+![Population of New York Counties](population5.pdf){fig-align="center" width="70%"}
+
+
+What are the most and least populous counties, by name?
+
+Most: Kings county, 2631580
+Least: Hamilton, 5089
+
+
+## Figure 6
+
+![Population Density of New York Counties](popdensity.pdf){fig-align="center" width="70%"}
+
+
+What are the most and least densely populated counties, by name?
+
+Most: New York County
+Least: Hamilton County
